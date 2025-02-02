@@ -1,21 +1,6 @@
-2025/02/02-14:46:32.936 a44 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/02-14:46:32.937 a44 Recovering log #7
-2025/02/02-14:46:32.938 a44 Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000007.log 
-2025/02/02-14:46:34.200 a44 Compacting 1@1 + 1@2 files
-2025/02/02-14:46:34.213 a44 Generated table #10@1: 69 keys, 96360 bytes
-2025/02/02-14:46:34.213 a44 Compacted 1@1 + 1@2 files => 96360 bytes
-2025/02/02-14:46:34.219 a44 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/02/02-14:46:34.219 a44 Delete type=2 #5
-2025/02/02-14:46:34.219 a44 Delete type=2 #8
-2025/02/02-14:47:34.160 a45 Level-0 table #12: started
-2025/02/02-14:47:34.177 a45 Level-0 table #12: 2411317 bytes OK
-2025/02/02-14:47:34.184 a45 Delete type=0 #7
-2025/02/02-14:47:34.184 a45 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2025/02/02-14:47:34.184 a45 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 4464 : 1
-2025/02/02-14:47:34.184 a45 Compacting 1@1 + 1@2 files
-2025/02/02-14:47:34.193 a45 Generated table #13@1: 84 keys, 186381 bytes
-2025/02/02-14:47:34.193 a45 Compacted 1@1 + 1@2 files => 186381 bytes
-2025/02/02-14:47:34.198 a45 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/02/02-14:47:34.199 a45 Delete type=2 #10
-2025/02/02-14:47:34.199 a45 Delete type=2 #12
-2025/02/02-14:47:34.200 a45 Manual compaction at level-1 from '\x00\x09\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 4464 : 1 .. (end); will stop at (end)
+2025/02/02-15:16:00.371 90f Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/02-15:16:00.372 90f Recovering log #11
+2025/02/02-15:16:00.376 90f Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000011.log 
+2025/02/02-15:16:12.328 90e Level-0 table #16: started
+2025/02/02-15:16:12.355 90e Level-0 table #16: 2961074 bytes OK
+2025/02/02-15:16:12.362 90e Delete type=0 #11

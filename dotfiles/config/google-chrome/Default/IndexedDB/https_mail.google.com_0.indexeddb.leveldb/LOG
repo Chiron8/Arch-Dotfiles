@@ -1,3 +1,12 @@
-2025/02/02-15:10:25.906 a45 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/02-15:10:25.906 a45 Recovering log #11
-2025/02/02-15:10:25.906 a45 Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000011.log 
+2025/02/02-16:08:32.526 945 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/02-16:08:32.527 945 Recovering log #15
+2025/02/02-16:08:32.531 945 Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000015.log 
+2025/02/02-16:08:33.956 90d Compacting 1@1 + 1@2 files
+2025/02/02-16:08:33.980 90d Generated table #18@1: 192 keys, 595295 bytes
+2025/02/02-16:08:33.980 90d Compacted 1@1 + 1@2 files => 595295 bytes
+2025/02/02-16:08:33.986 90d compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/02-16:08:33.987 90d Delete type=2 #13
+2025/02/02-16:08:33.987 90d Delete type=2 #16
+2025/02/02-16:08:35.534 90e Level-0 table #20: started
+2025/02/02-16:08:35.559 90e Level-0 table #20: 3062990 bytes OK
+2025/02/02-16:08:35.566 90e Delete type=0 #15
