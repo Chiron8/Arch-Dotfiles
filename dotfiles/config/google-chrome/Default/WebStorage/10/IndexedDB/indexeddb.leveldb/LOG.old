@@ -1,6 +1,3 @@
-2025/01/27-20:03:22.225 e31 Creating DB /home/chiron/.config/google-chrome/Default/WebStorage/10/IndexedDB/indexeddb.leveldb since it was missing.
-2025/01/27-20:03:22.234 e31 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/WebStorage/10/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2025/01/27-20:04:01.029 e32 Level-0 table #5: started
-2025/01/27-20:04:01.041 e32 Level-0 table #5: 561634 bytes OK
-2025/01/27-20:04:01.048 e32 Delete type=0 #3
-2025/01/27-20:04:01.053 e32 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/01/31-17:46:07.354 8d73 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/WebStorage/10/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/01/31-17:46:07.354 8d73 Recovering log #4
+2025/01/31-17:46:07.354 8d73 Reusing old log /home/chiron/.config/google-chrome/Default/WebStorage/10/IndexedDB/indexeddb.leveldb/000004.log 
