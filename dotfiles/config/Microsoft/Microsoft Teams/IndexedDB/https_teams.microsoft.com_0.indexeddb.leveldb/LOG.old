@@ -1,0 +1,5 @@
+2025/02/02-15:05:33.508 9d93 Reusing MANIFEST /home/chiron/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/02-15:05:35.610 a0fe Level-0 table #5: started
+2025/02/02-15:05:35.621 a0fe Level-0 table #5: 6215 bytes OK
+2025/02/02-15:05:35.627 a0fe Delete type=0 #3
+2025/02/02-15:05:35.627 a0fe Manual compaction at level-0 from (begin) .. (end); will stop at (end)

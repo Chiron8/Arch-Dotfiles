@@ -1,24 +1,3 @@
-2025/02/02-13:47:09.033 9d5 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/WebStorage/10/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2025/02/02-13:47:09.034 9d5 Recovering log #4
-2025/02/02-13:47:09.051 9d5 Reusing old log /home/chiron/.config/google-chrome/Default/WebStorage/10/IndexedDB/indexeddb.leveldb/000004.log 
-2025/02/02-13:47:09.149 9e9 Level-0 table #8: started
-2025/02/02-13:47:09.174 9e9 Level-0 table #8: 1178924 bytes OK
-2025/02/02-13:47:09.181 9e9 Delete type=0 #4
-2025/02/02-13:47:09.901 9d6 Compacting 1@1 + 1@2 files
-2025/02/02-13:47:09.923 9d6 Generated table #9@1: 937 keys, 279734 bytes
-2025/02/02-13:47:09.924 9d6 Compacted 1@1 + 1@2 files => 279734 bytes
-2025/02/02-13:47:09.930 9d6 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/02/02-13:47:43.185 9d5 Level-0 table #11: started
-2025/02/02-13:47:43.198 9d5 Level-0 table #11: 1181527 bytes OK
-2025/02/02-13:47:43.206 9d5 Delete type=2 #5
-2025/02/02-13:47:43.206 9d5 Delete type=0 #7
-2025/02/02-13:47:43.206 9d5 Delete type=2 #8
-2025/02/02-13:47:43.207 9d5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2025/02/02-13:47:43.207 9d5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01 \x03\x00\xc0=\xa4nLyB\x00\x01&\x008\x00e\x009\x00f\x005\x005\x001\x00e\x00-\x00e\x004\x007\x005\x00-\x004\x00b\x006\x003\x00-\x00a\x000\x00d\x001\x00-\x001\x000\x00c\x002\x008\x00c\x007\x007\x002\x00f\x00d\x00b\x00-\x002' @ 20448 : 1
-2025/02/02-13:47:43.207 9d5 Compacting 1@1 + 1@2 files
-2025/02/02-13:47:43.217 9d5 Generated table #12@1: 1433 keys, 457598 bytes
-2025/02/02-13:47:43.218 9d5 Compacted 1@1 + 1@2 files => 457598 bytes
-2025/02/02-13:47:43.223 9d5 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/02/02-13:47:43.224 9d5 Delete type=2 #9
-2025/02/02-13:47:43.224 9d5 Delete type=2 #11
-2025/02/02-13:47:43.224 9d5 Manual compaction at level-1 from '\x00\x04\x01 \x03\x00\xc0=\xa4nLyB\x00\x01&\x008\x00e\x009\x00f\x005\x005\x001\x00e\x00-\x00e\x004\x007\x005\x00-\x004\x00b\x006\x003\x00-\x00a\x000\x00d\x001\x00-\x001\x000\x00c\x002\x008\x00c\x007\x007\x002\x00f\x00d\x00b\x00-\x002' @ 20448 : 1 .. (end); will stop at (end)
+2025/02/02-14:31:55.039 a45 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/WebStorage/10/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/02/02-14:31:55.040 a45 Recovering log #21
+2025/02/02-14:31:55.042 a45 Reusing old log /home/chiron/.config/google-chrome/Default/WebStorage/10/IndexedDB/indexeddb.leveldb/000021.log 
