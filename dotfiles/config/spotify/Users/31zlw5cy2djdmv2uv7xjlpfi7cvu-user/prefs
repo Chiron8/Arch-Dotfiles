@@ -1,0 +1,3 @@
+connect.mdns_devices="[]"
+connect.dial_devices="[{\"address\":\"192.168.50.183\",\"app_state\":\"MISSING\",\"created_timestamp\":1737892309,\"device_id\":\"0bf63ecd-c0f3-393c-8909-28b35a0f638e\",\"dial_location_url\":\"http://192.168.50.183:60000/upnp/dev/0bf63ecd-c0f3-393c-8909-28b35a0f638e/desc\",\"display_name\":\"Chiron Alexa\",\"last_seen\":1737892379,\"manufacturer\":\"Amazon\",\"model_name\":\"AEOCH\",\"product_cap\":\"\",\"public_ip\":\"145.40.144.104\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"0812a51730a3\",\"port\":9,\"retries\":1400}}]"
+audio.play_bitrate_non_metered_migrated=true

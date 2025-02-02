@@ -1,0 +1,16 @@
+{
+  // Use the small Arch Linux logo
+  "logo": "arch_small",
+
+  // Set the modules to display
+  "modules": [
+    "datetime",
+    "uptime",
+    "kernel",
+    "cpu",
+    "gpu",
+    "memory",
+    "disk"
+  ]
+}
+

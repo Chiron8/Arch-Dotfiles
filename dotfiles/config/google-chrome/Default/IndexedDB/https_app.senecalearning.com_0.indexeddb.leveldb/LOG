@@ -1,0 +1,16 @@
+2025/02/01-10:31:36.939 95a Creating DB /home/chiron/.config/google-chrome/Default/IndexedDB/https_app.senecalearning.com_0.indexeddb.leveldb since it was missing.
+2025/02/01-10:31:36.951 95a Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_app.senecalearning.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/01-10:31:36.996 95a Level-0 table #5: started
+2025/02/01-10:31:36.999 95a Level-0 table #5: 1375 bytes OK
+2025/02/01-10:31:37.008 95a Delete type=0 #3
+2025/02/01-10:31:37.009 95a Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/01-10:31:37.438 959 Level-0 table #7: started
+2025/02/01-10:31:37.442 959 Level-0 table #7: 2798 bytes OK
+2025/02/01-10:31:37.448 959 Delete type=0 #4
+2025/02/01-10:31:37.448 959 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/01-10:32:54.609 959 Compacting 1@1 + 1@2 files
+2025/02/01-10:32:54.620 959 Generated table #8@1: 56 keys, 1460 bytes
+2025/02/01-10:32:54.620 959 Compacted 1@1 + 1@2 files => 1460 bytes
+2025/02/01-10:32:54.626 959 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/01-10:32:54.626 959 Delete type=2 #5
+2025/02/01-10:32:54.626 959 Delete type=2 #7

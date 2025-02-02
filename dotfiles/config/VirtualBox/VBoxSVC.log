@@ -1,0 +1,44 @@
+00:00:00.000124 main     VirtualBox XPCOM Server 7.1.6 r167084 linux.amd64 (Jan 27 2025 07:52:25) release log
+00:00:00.000126 main     Log opened 2025-01-31T08:25:19.702688000Z
+00:00:00.000126 main     Build Type: release
+00:00:00.000127 main     OS Product: Linux
+00:00:00.000128 main     OS Release: 6.12.10-arch1-1
+00:00:00.000128 main     OS Version: #1 SMP PREEMPT_DYNAMIC Sat, 18 Jan 2025 02:26:57 +0000
+00:00:00.000141 main     DMI Product Name: XPS 13 7390
+00:00:00.000145 main     DMI Product Version: 
+00:00:00.000148 main     Firmware type: UEFI
+00:00:00.000797 main     Secure Boot: Disabled
+00:00:00.000845 main     Host RAM: 7632MB (7.4GB) total, 5436MB (5.3GB) available
+00:00:00.000847 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000848 main     Process ID: 10092
+00:00:00.000848 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.002228 main     IPC socket path: /tmp/.vbox-chiron-ipc/ipcd
+00:00:00.007525 DCon01   VirtualBox: object creation starts
+00:00:00.007576 DCon01   Home directory: '/home/chiron/.config/VirtualBox'
+00:00:00.017157 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.027097 DCon01   HostDnsMonitor: initializing
+00:00:00.027371 DCon01   NAT: resolv.conf: nameserver 172.20.10.1
+00:00:00.027384 DCon01   HostDnsMonitor: updating information
+00:00:00.027392 DCon01   HostDnsMonitor: old information
+00:00:00.027394 DCon01     no server entries
+00:00:00.027396 DCon01     no domain set
+00:00:00.027397 DCon01     no search string entries
+00:00:00.027399 DCon01   HostDnsMonitor: new information
+00:00:00.027400 DCon01     server 1: 172.20.10.1
+00:00:00.027402 DCon01     no domain set
+00:00:00.027403 DCon01     no search string entries
+00:00:00.028822 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.028882 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.029339 DCon01   VirtualBox: object created
+00:00:00.566858 DCon03   Saving settings file "/home/chiron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.582674 DCon03   Finished saving settings file "/home/chiron/.config/VirtualBox/VirtualBox.xml"
+00:00:00.617226 DCon03   Saving settings file "/home/chiron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.625830 DCon03   Finished saving settings file "/home/chiron/.config/VirtualBox/VirtualBox.xml"
+00:00:00.643925 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=false aResultDetail=0
+00:00:01.241099 DCon03   Saving settings file "/home/chiron/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.257508 DCon03   Finished saving settings file "/home/chiron/.config/VirtualBox/VirtualBox.xml"
+00:00:19.779806 main     VirtualBox: object deletion starts
+00:00:19.780043 main     HostDnsMonitor: shutting down ...
+00:00:19.780266 main     HostDnsMonitor: shut down
+00:00:19.790854 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:19.790901 main     VirtualBox: object deleted

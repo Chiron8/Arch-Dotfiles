@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=0.9.4
+Name=arduino-cloud-agent
+Comment=
+Icon=/home/chiron/ArduinoCloudAgent/InstallerIcon.png
+Exec=/home/chiron/ArduinoCloudAgent/Arduino_Cloud_Agent
+Terminal=false

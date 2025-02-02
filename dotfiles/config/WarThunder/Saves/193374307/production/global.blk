@@ -1,0 +1,904 @@
+version:i=70
+
+content{
+  profile{
+    scoutTargetSuccess:i=0
+    scoutBinocularSuccess:i=0
+    footballTargetLockShown:i=0
+    automaticExtinguisher:b=yes
+    automaticRepair:b=no
+    automaticPump:b=no
+    globalSaveVersion:i=0
+    saveVersion:i=2
+    countryId2:i=4
+    firstFreeFlight:b=yes
+    completedOneMission:i=0
+    seenNuclearEvent:b=no
+    seenBackgroundNuclearEvent:b=no
+    battleCntWithSupportPlane:i=0
+
+    warpoints_stat{}
+    last_played{
+      versusItem:t="ice_port_NDom"
+    }
+
+    pedia_hints{}
+    seen_video{}
+    hints_count{}
+  }
+
+  settings{
+    speed:t="kmh"
+    alt:t="meters_alt"
+    dist:t="km_dist"
+    climbSpeed:t="metersPerSecond_climbSpeed"
+    temperature:t="celsius_temperature"
+    wingLoading:t="kg_per_sq_meters_wing_loading"
+    powerToWeightRatio:t="hp_per_kg_power_to_weight_ratio"
+    radialSpeed:t="metersPerSecond_climbSpeed"
+    grassInTankVision:b=yes
+    selectedOnce:b=yes
+    indicatedSpeedType:i=0
+    indicatedAltitudeType:i=0
+    radarAltitudeAlert:r=60
+    horizontalSpeed:b=no
+    autoShowChat:b=yes
+    chatMessages:i=1
+    tacticalMapScale:i=1
+    chatFilter:b=yes
+    showPilot:b=yes
+    gunVerticalTargeting:b=no
+    showDeflection:b=yes
+    showGyroSightDeflection:b=no
+    hudScreenshotLogo:b=yes
+    showIndicatorsMode:i=249
+    showIndicatorsModeTitle:b=yes
+    hudShowFuel:i=1
+    hudShowAmmo:i=0
+    hudShowTemperature:i=0
+    hudTpsCrosshairType:i=0
+    hudCrosshairColorPreset:i=0
+    autoPilotOnBombAndGunnerView:i=2
+    autoRearmOnAirfield:b=yes
+    enableLaserDesignatorBeforeLaunch:b=yes
+    seekerAutoStabilization:b=yes
+    activateAirborneRadarOnSpawn:b=yes
+    useRectangularRadarIndicator:b=no
+    radarTargetCycling:b=yes
+    useRadarAimElevationControl:b=yes
+    rwrSensitivity:r=1
+    useRadarHudInCockpit:b=yes
+    useTwsHudInCockpit:b=yes
+    activateAirborneActiveCounterMeasuresOnSpawn:b=yes
+    activateAirborneWeaponSelectionOnSpawn:b=no
+    activateBombsAutoReleaseOnSpawn:b=yes
+    automaticEmptyContainersJettison:b=no
+    hintsMask:i=128
+    autosaveReplays:b=yes
+    showAttachables:b=yes
+    enableXrayDeath:b=yes
+    enableXrayKill:b=yes
+    isSubtitles:i=2
+    isSubtitlesRadio:i=0
+    vwsOnlyInCockpit:b=no
+    usePTT:b=yes
+    useVoiceChat:b=no
+    voiceMessageVoice:i=1
+    viewType:i=0
+    enableControllerLight:b=yes
+    useOculusToAimHelicopter:b=no
+    autoPilotOnGunnerViewHelicopter:i=1
+    hideMouseInSpectator:b=no
+    fixGunInMouseLook:b=no
+    delayedDownloadContent:b=no
+    replaySnapshotsEnabled:b=no
+    recordSnapshotPeriod:i=60
+    preferredDifficulty:i=-1
+    preferredTeam:i=0
+    voiceLanguageType:i=0
+    aerobaticsSmokeType:i=6
+    aerobaticsSmokeColors:i=73
+    gunConvergenceDistance:i=800
+    bombDelayExplosion:r=0
+    depthChargeDelayExplosion:r=3
+    bombActivationType:i=0
+    rocketFuseDist:r=0
+    torpedoDiveDepth:r=1
+    countermeasuresSeries:i=1
+    countermeasuresPeriods:r=0.1
+    countermeasuresSeriesPeriods:r=1
+    bombSeries:i=4
+    hudColor:i=0
+    hudIndicators:i=0
+    hangarSound:b=yes
+    usePerfectRangefinder:b=yes
+    saveAiTargetType:b=yes
+    defaultAiTargetType:i=1
+    enableSoundSpeed:b=no
+    aiGunnerTime:i=1
+    favoriteVoiceMessage1:i=-1
+    favoriteVoiceMessage2:i=-1
+    favoriteVoiceMessage3:i=-1
+    favoriteVoiceMessage4:i=-1
+    favoriteVoiceMessage5:i=-1
+    favoriteVoiceMessage6:i=-1
+    favoriteVoiceMessage7:i=-1
+    favoriteVoiceMessage8:i=-1
+    favoriteVoiceMessage9:i=-1
+    favoriteVoiceMessage10:i=-1
+    favoriteVoiceMessage11:i=-1
+    favoriteVoiceMessage12:i=-1
+    timesIntroVideoPlayed:i=2
+    graphicsAutodetectGpuTimeAvg:r=109.313
+    graphicsAutodetectGpuInfo:t="intel(r) uhd graphics (cml gt2)"
+    graphicsAutodetectTimestamp:r=1.73834e+09
+    enableInstructorGroundAvoidance:b=yes
+    enableInstructorGearControl:b=yes
+    enableInstructorFlapsControl:b=yes
+    enableInstructorEngineControl:b=yes
+    enableInstructorSimpleJoy:b=yes
+    storeZoomMapByLevel:b=no
+    needShowCompassInTankHud:b=no
+    pitchBlockerWhileBraking:b=no
+    commanderCameraInViews:i=0
+    saveDirWhileSwitchTrigger:b=no
+    hudArcade:t="default"
+    hudRealistic:t="default"
+    hudHardcore:t="default"
+    showDestroyedParts:b=yes
+    activateGroundRadarOnSpawn:b=yes
+    groundRadarTargetCycling:b=yes
+    activateGroundActiveCounterMeasuresOnSpawn:b=yes
+    tankGunnerCameraFromSight:b=no
+    saveZoomCameraSetting:i=0
+    playInactiveWindowSound:b=no
+    advancedHitIndicatorSimplified:b=no
+    lwsAzimuthIndicatorTimeout:i=2
+    lwsAzimuthIndicatorTimeoutHelicopter:i=2
+    freeCameraZoomSpeed:i=50
+    replayCameraFov:i=90
+
+    customSettings{
+      sendNuclearStatistic:b=no
+      disabledReloginSteamAccount:b=yes
+      fonts_css:t="compact"
+      delayDownloadContent:b=no
+      lastWonInVersion:i=555
+
+      accounts{
+        193374307.production{
+          selected_random_battle:t="air_arcade"
+          SteamEmailRegistrationShowed:b=yes
+          "statistic:new_player_tutorial_choice":b=yes
+          firstRunTutorial_tutorial_destroyer_basics_arcade:b=yes
+          firstRunTutorial_tutorialB_fighter:b=yes
+          upgradeCrewSpecTutorialPassed:b=yes
+
+          slotbar_presets{
+            presetsVersion:i=1
+
+            country_france{
+              preset:t="12|12,13|d_371,d_373|Default ▭|air_arcade|12,13"
+              preset:t="12|12,13|fr_amd_35,fr_hotchkiss_h39|Default ▮|tank_event_in_random_battles_arcade|12,13"
+              preset:t="12|12|fr_destroyer_bourrasque_class_bourrasque|Default ┚|ship_event_in_random_battles_arcade|12"
+              preset:t="12|12|fr_vtb8|Default ⋛|ship_event_in_random_battles_arcade|12"
+              selected:i=2
+            }
+
+            country_israel{
+              preset:t="-1|||Default ┚|ship_event_in_random_battles_arcade|"
+              selected:i=0
+            }
+
+            country_sweden{
+              preset:t="16|16|gladiator_j8a|Preset #1||16,17"
+              selected:i=0
+            }
+
+            country_japan{
+              preset:t="8|8,9|ki_10_1_commander,ki_10_1|Default ▭|air_arcade|8,9"
+              preset:t="8|8,9|jp_type_98_ke_ni,jp_type_89b_i_go_otsu|Default ▮|tank_event_in_random_battles_arcade|8,9"
+              preset:t="8|8|jp_destroyer_momi|Default ┚|ship_new_players_battle_coop|8,9"
+              preset:t="8|8|jp_t14_class|Default ⋛|ship_event_in_random_battles_arcade|8"
+              selected:i=2
+            }
+
+            country_usa{
+              preset:t="0|0,1|bf2c_1,p-26a_34_m2|Default ▭|air_arcade|0,1"
+              preset:t="0|0,1|us_m2a4,us_lvt_a_1|Default ▮|tank_event_in_random_battles_arcade|0,1"
+              preset:t="0|0|us_destroyer_clemson_litchfield|Default ┚|ship_new_players_battle_coop|0,1"
+              preset:t="0|0|us_pt6|Default ⋛|ship_event_in_random_battles_arcade|0"
+              selected:i=2
+            }
+
+            country_germany{
+              preset:t="2|2,3|he51a1,he51b1|Default ▭|air_arcade|2,3"
+              preset:t="2|2,3|germ_pzkpfw_III_ausf_E,germ_pzkpfw_35t|Default ▮|tank_event_in_random_battles_arcade|2,3"
+              preset:t="2|2|germ_destroyer_class1924_leopard1932|Default ┚|ship_new_players_battle_coop|2,3"
+              preset:t="2|2|germ_ls_class|Default ⋛|ship_event_in_random_battles_arcade|2"
+              selected:i=2
+            }
+
+            country_ussr{
+              preset:t="4|4,5|i-15_1935,i-15_1935_moscow|Default ▭|air_arcade|4,5"
+              preset:t="4|4,5|ussr_t_26_1940,ussr_bt_5|Default ▮|tank_event_in_random_battles_arcade|4,5"
+              preset:t="4|4|ussr_destroyer_frunze|Default ┚|ship_new_players_battle_coop|4,5"
+              preset:t="4|4|ussr_g5_mtb|Default ⋛|ship_event_in_random_battles_arcade|4"
+              selected:i=2
+            }
+
+            country_britain{
+              preset:t="6|6,7|blenheim_mkiv,v_156_b1|Default ▭|air_arcade|6,7,20"
+              preset:t="7|6,7|uk_a_13_mk1,uk_a17_mk_1_tetrarch|Default ▮|tank_new_players_battle_coop|6,7,20"
+              preset:t="20|6,20|uk_destroyer_v_class_vega,uk_destroyer_v_class_verdun|Default ┚|ship_new_players_battle_coop|6,7,20"
+              preset:t="6|6|uk_mtb_1series|Default ⋛|ship_new_players_battle_coop|6,7,20"
+              selected:i=0
+            }
+
+            country_china{
+              preset:t="14|14|gladiator_mk1_china|Preset #1|air_arcade|14,15"
+              selected:i=0
+            }
+
+            country_italy{
+              preset:t="10|10,11|cr_32,cr_32_quater|Default ▭|air_arcade|10,11"
+              preset:t="10|10,11|it_ab_41,it_l6|Default ▮|tank_event_in_random_battles_arcade|10,11"
+              preset:t="10|10|it_destroyer_turbine|Default ┚|ship_new_players_battle_coop|10,11"
+              preset:t="10|10|it_mas_classe500_3_1944|Default ⋛|ship_event_in_random_battles_arcade|10"
+              selected:i=2
+            }
+          }
+
+          tutor{
+            tutorialVersion:i=1
+            toBattle:b=yes
+            mission_launched_tutorial_destroyer_battle_arcade:b=yes
+            takeUnit:b=yes
+            researchMod:b=yes
+            researchUnit:b=yes
+            newUnitTypetoBattle:b=yes
+            slotbar_presets_tutorial_counter:i=1
+
+            newbieBattles{
+              unitsRank{
+                2:i=1
+                0:i=1
+              }
+            }
+          }
+
+          popup{
+            2025_01_31_thunder_cup_2024_popup:i=739647
+          }
+
+          seen{
+            help_mission_type{
+              missionNavalDomination:i=1
+              missionGroundStrikeComplete:i=1
+              missionGroundCapture:i=1
+              missionAirDomination:i=1
+            }
+
+            promo_collapsed{
+              tutorial_mainmenu_button:b=no
+            }
+
+            gameModes{
+              game_mode_item_tank_new_players_battle_coop:b=yes
+              game_mode_item_ship_new_players_battle_coop:b=yes
+              game_mode_item_air_arcade:b=yes
+              game_mode_item_tank_event_in_random_battles_historical:b=yes
+              game_mode_item_air_realistic:b=yes
+              game_mode_item_custom_mode_fullreal:b=yes
+              game_mode_item_pve_main_air_arcade:b=yes
+            }
+          }
+
+          wnd{
+            battleLogFilterDebriefing:i=0
+            decalsCategory:t="special/ingame_achievements"
+            flagsCategory:t="naval/other"
+          }
+
+          selected_crews{
+            country_usa:i=0
+            country_germany:i=0
+            country_ussr:i=0
+            country_britain:i=0
+            country_japan:i=0
+            country_china:i=0
+            country_italy:i=0
+            country_france:i=0
+            country_sweden:i=0
+            country_israel:i=0
+          }
+        }
+      }
+
+      seen{
+        need_hide_decorators_unseen:b=no
+        need_hide_decals_unseen:b=no
+        rateWndTime:i=1738352213
+        feedbackRateWnd:b=no
+
+        suggestionShowDecalsOnOtherPlayers{
+          show:b=yes
+          lastShowTimeSec:i=1738344971
+        }
+
+        decals{
+          tutorial_fighter_decal:i=739647
+          tutorial_destroyer_decal:i=739647
+        }
+
+        decorators{
+          ship_flag_uk_01:i=739647
+        }
+
+        avatars{
+          cardicon_07:i=739647
+          cardicon_17:i=739647
+        }
+      }
+
+      tutor{
+        fontChange:b=yes
+
+        dmViewer{
+          isAvailable:b=yes
+        }
+      }
+
+      show_slot_info_panel_tab{
+        mainmenu:i=0
+        showroom:i=0
+      }
+
+      myStats{
+        newbieEndedByArmyId{
+          aviation:b=yes
+          army:b=no
+          ships:b=no
+        }
+      }
+
+      changelog{
+        lastSeenVersionInfoNum:i=36372560
+        lastLoadedVersionNum:i=36372560
+      }
+
+      gpuBenchmark{
+        gpuName:t="Intel(R) UHD Graphics (CML GT2)"
+        seen:b=yes
+      }
+
+      voted_polls{}
+      hintsSeenData{
+        13{
+          seenCount:i=5
+          seenTime:i=1738342751
+        }
+
+        0{
+          seenCount:i=3
+          seenTime:i=1738347564
+        }
+
+        7{
+          seenCount:i=1
+          seenTime:i=1738407664
+        }
+
+        11{
+          seenCount:i=1
+          seenTime:i=1738407967
+        }
+
+        12{
+          seenCount:i=4
+          seenTime:i=1738408142
+        }
+      }
+
+      contacts{
+        recent{}
+      }
+
+      1920x1080{
+        contacts_sizes:t='{"pos":[744,326],"size":[243,535]}'
+        menu_chat_sizes:t='{"pos":[176,326],"size":[567,535],"usersSize":[168,499]}'
+      }
+
+      viralAcquisition{
+        resetDays:i=1
+        lastLoginDay:i=739648
+        lastShowTime:i=739647
+      }
+
+      useropt{
+        bomb_activation_time{
+          0:r=0
+          1:r=0
+        }
+
+        bomb_activation_type{
+          0:i=0
+          1:i=0
+        }
+      }
+
+      chatRooms{}
+      weaponPreset{
+        favorite{
+          blenheim_mkiv{
+            presetId:t="BlenheimMKIV_default"
+          }
+        }
+      }
+    }
+
+    internetRadioSettings{
+      active:b=no
+    }
+
+    unitsSettings{
+      jp_t14_class{
+        USEROPT_WEAPONS:t="torpedoes"
+      }
+
+      ussr_g5_mtb{
+        USEROPT_WEAPONS:t="torpedoes"
+      }
+
+      ussr_destroyer_frunze{
+        USEROPT_WEAPONS:t="torpedoes"
+      }
+
+      us_m2a4{
+        USEROPT_WEAPONS:t="us_m2a4_default"
+      }
+
+      uk_destroyer_v_class_vega{
+        USEROPT_WEAPONS:t="uk_destroyer_v_class_valhalla_default"
+        USEROPT_BULLETS0:t="102mm_uk_mkxvi_navy_HE"
+        USEROPT_BULLETS1:t="102mm_uk_mkxvi_navy_HE"
+        USEROPT_BULLETS2:t="102mm_uk_mkxvi_navy_HE"
+        USEROPT_BULLETS3:t="20mm_oerlikon_universal"
+        USEROPT_BULLETS4:t="20mm_oerlikon_universal"
+        USEROPT_BULLETS5:t="20mm_oerlikon_universal"
+        USEROPT_BULLET_COUNT0:i=800
+        USEROPT_BULLET_COUNT3:i=120
+        USEROPT_AI_GUNNERS_TARGET:i=0
+      }
+
+      ki_10_1_commander{
+        USEROPT_WEAPONS:t="Ki-10_II_default"
+      }
+
+      germ_pzkpfw_III_ausf_B{
+        USEROPT_WEAPONS:t="germ_pzkpfw_III_ausf_B_default"
+      }
+
+      sw_strv_m38{
+        USEROPT_WEAPONS:t="sw_strv_m38_default"
+      }
+
+      he51c1{
+        USEROPT_WEAPONS:t="he51c1_default"
+      }
+
+      germ_pzkpfw_35t{
+        USEROPT_WEAPONS:t="germ_pzkpfw_35t_default"
+      }
+
+      fury_mk2{
+        USEROPT_WEAPONS:t="nimrod_default"
+        USEROPT_BULLET_COUNT0:i=1200
+      }
+
+      bf2c_1{
+        USEROPT_WEAPONS:t="bf2c_1_default"
+      }
+
+      ki_10_1{
+        USEROPT_WEAPONS:t="Ki-10_II_default"
+      }
+
+      it_ab_41{
+        USEROPT_WEAPONS:t="it_ab_41_default"
+      }
+
+      fr_destroyer_bourrasque_class_bourrasque{
+        USEROPT_WEAPONS:t="fr_destroyer_bourrasque_class_bourrasque_torpedoes"
+      }
+
+      i-15_1935_moscow{
+        USEROPT_WEAPONS:t="I-15_default"
+      }
+
+      sw_strv_m31{
+        USEROPT_WEAPONS:t="sw_strv_m31_default"
+      }
+
+      us_lvt_a_1{
+        USEROPT_WEAPONS:t="us_lvt_a_1_default"
+      }
+
+      uk_a17_mk_1_tetrarch{
+        USEROPT_WEAPONS:t="uk_a17_mk_1_tetrarch_default"
+        USEROPT_BULLET_COUNT0:i=50
+      }
+
+      gladiator_j8a{
+        USEROPT_WEAPONS:t="gladiator_mk2_default"
+      }
+
+      germ_ls_class{
+        USEROPT_WEAPONS:t="torpedoes"
+      }
+
+      us_destroyer_clemson_litchfield{
+        USEROPT_WEAPONS:t="torpedoes"
+      }
+
+      j6b{
+        USEROPT_WEAPONS:t="j6b_default"
+      }
+
+      cr_32_quater{
+        USEROPT_WEAPONS:t="cr_32_quater_default"
+      }
+
+      fr_vtb8{
+        USEROPT_WEAPONS:t="torpedoes"
+      }
+
+      ussr_t_26_1940{
+        USEROPT_WEAPONS:t="ussr_t_26_1940_default"
+      }
+
+      jp_type_98_ke_ni{
+        USEROPT_WEAPONS:t="jp_type_98_ke_ni_default"
+      }
+
+      i-15_1935{
+        USEROPT_WEAPONS:t="I-15_default"
+      }
+
+      jp_destroyer_momi{
+        USEROPT_WEAPONS:t="torpedoes"
+      }
+
+      he51a1{
+        USEROPT_WEAPONS:t="he51a1_default"
+      }
+
+      he51b1{
+        USEROPT_WEAPONS:t="he51b1_default"
+      }
+
+      it_mas_classe500_3_1944{
+        USEROPT_WEAPONS:t="torpedoes"
+      }
+
+      d_373{
+        USEROPT_WEAPONS:t="d373_default"
+      }
+
+      uk_a_13_mk1{
+        USEROPT_WEAPONS:t="uk_a_13_mk1_default"
+        USEROPT_BULLET_COUNT0:i=87
+      }
+
+      it_destroyer_turbine{
+        USEROPT_WEAPONS:t="torpedoes"
+      }
+
+      gladiator_mk1_china{
+        USEROPT_WEAPONS:t="gladiator_mk2_default"
+      }
+
+      cn_t_26_1940{
+        USEROPT_WEAPONS:t="ussr_t_26_1940_default"
+      }
+
+      cn_m8_greyhound{
+        USEROPT_WEAPONS:t="us_m8_greyhound_default"
+      }
+
+      i-15bis_china{
+        USEROPT_WEAPONS:t="I-15bis_default"
+      }
+
+      p-26a_34_m2{
+        USEROPT_WEAPONS:t="P-26A_1934_default"
+      }
+
+      germ_destroyer_class1924_leopard1932{
+        USEROPT_WEAPONS:t="torpedoes"
+      }
+
+      us_pt6{
+        USEROPT_WEAPONS:t="torpedoes"
+      }
+
+      ki_10_2{
+        USEROPT_WEAPONS:t="Ki-10_II_default"
+      }
+
+      jp_type_89b_i_go_otsu{
+        USEROPT_WEAPONS:t="jp_type_89b_i_go_otsu_default"
+      }
+
+      uk_mtb_1series{
+        USEROPT_WEAPONS:t="torpedoes"
+      }
+
+      fr_hotchkiss_h39{
+        USEROPT_WEAPONS:t="fr_hotchkiss_h39_default"
+      }
+
+      i-15_1934{
+        USEROPT_WEAPONS:t="I-15_default"
+      }
+
+      ussr_bt_5{
+        USEROPT_WEAPONS:t="ussr_bt_5_default"
+      }
+
+      fr_amd_35{
+        USEROPT_WEAPONS:t="fr_amd_35_default"
+      }
+
+      fury_mk1{
+        USEROPT_WEAPONS:t="nimrod_default"
+        USEROPT_BULLET_COUNT0:i=1200
+      }
+
+      germ_pzkpfw_III_ausf_E{
+        USEROPT_WEAPONS:t="germ_pzkpfw_III_ausf_E_default"
+      }
+
+      it_l6{
+        USEROPT_WEAPONS:t="it_l6_default"
+      }
+
+      nimrod_mk1{
+        USEROPT_WEAPONS:t="nimrod_default"
+      }
+
+      d_500{
+        USEROPT_WEAPONS:t="d_500_default"
+      }
+
+      cr_32{
+        USEROPT_WEAPONS:t="cr_32_default"
+      }
+
+      d_371{
+        USEROPT_WEAPONS:t="d371_default"
+      }
+
+      us_destroyer_sumner{
+        USEROPT_WEAPONS:t="us_destroyer_sumner_default"
+        USEROPT_AI_GUNNERS_TARGET:i=1
+      }
+
+      spitfire_mk1{
+        USEROPT_WEAPONS:t="spitfire_mk1_default"
+      }
+
+      wellington_mk1c{
+        USEROPT_WEAPONS:t="wellington_10x250lbs"
+      }
+
+      beaufort_mkviii{
+        USEROPT_WEAPONS:t="beaufort_mkviii_250gp"
+      }
+
+      hurricane_mk1{
+        USEROPT_WEAPONS:t="hurricane_mk1_default"
+      }
+
+      hurricane_mk4{
+        USEROPT_WEAPONS:t="hurricane_mk4_guns"
+      }
+
+      hurricanemkii{
+        USEROPT_WEAPONS:t="hurricane_real"
+      }
+
+      spitfiremkiia{
+        USEROPT_WEAPONS:t="spitfire_mk1_default"
+      }
+
+      sunderland_mk5{
+        USEROPT_WEAPONS:t="sunderland_mk5_250lbs"
+      }
+
+      typhoon_mk1a{
+        USEROPT_WEAPONS:t="typhoon_mk1a_default"
+      }
+
+      uk_destroyer_v_class_verdun{
+        USEROPT_WEAPONS:t="uk_destroyer_v_class_verdun_default"
+        USEROPT_BULLETS0:t="102mm_uk_mkxvi_navy_HE"
+        USEROPT_BULLETS1:t="102mm_uk_mkxvi_navy_HE"
+        USEROPT_BULLETS2:t="102mm_uk_mkxvi_navy_HE"
+        USEROPT_BULLETS3:t="20mm_oerlikon_universal"
+        USEROPT_BULLETS4:t="20mm_oerlikon_universal"
+        USEROPT_BULLETS5:t="20mm_oerlikon_universal"
+        USEROPT_BULLET_COUNT0:i=800
+        USEROPT_BULLET_COUNT3:i=60
+        USEROPT_AI_GUNNERS_TARGET:i=0
+      }
+
+      v_156_b1{
+        USEROPT_WEAPONS:t="sb2u_default"
+        USEROPT_BULLET_COUNT0:i=4000
+        USEROPT_BULLET_COUNT3:i=600
+        USEROPT_AI_GUNNERS_TARGET:i=1
+      }
+
+      blenheim_mkiv{
+        USEROPT_WEAPONS:t="BlenheimMKIV_default"
+        USEROPT_BULLET_COUNT0:i=4000
+        USEROPT_BULLET_COUNT3:i=500
+        USEROPT_ROCKET_FUSE_DIST:i=0
+        USEROPT_LOAD_FUEL_AMOUNT:i=300000
+        USEROPT_FUEL_AMOUNT_CUSTOM:i=300000
+        USEROPT_BULLETS0:t=""
+        USEROPT_BULLETS1:t=""
+        USEROPT_BULLETS2:t=""
+        USEROPT_BULLETS3:t=""
+        USEROPT_BULLETS4:t=""
+        USEROPT_BULLETS5:t=""
+      }
+    }
+
+    userSkins{
+      blenheim_mkiv:t=""
+    }
+
+    tankAltCrosshair{
+      f_15j_kai:t="test_crosshair"
+    }
+
+    forbid_visual_tags{}
+    hitIndicator{
+      radius:i=100
+      scale:i=100
+      alpha:i=100
+      timeout:i=2
+    }
+
+    lwsIndicator{
+      radius:i=100
+      scale:i=100
+      alpha:i=100
+      timeout:i=2
+    }
+
+    lwsIndicatorHelicopter{
+      radius:i=100
+      scale:i=100
+      alpha:i=100
+      timeout:i=2
+    }
+
+    sensorViewFilters{
+      f0:b=yes
+      f1:b=yes
+      f2:b=yes
+      f3:b=yes
+      f4:b=yes
+      f5:b=yes
+      f6:b=yes
+      f7:b=yes
+      f8:b=yes
+      f9:b=yes
+      f10:b=yes
+      f11:b=yes
+      f12:b=yes
+      f13:b=yes
+      f14:b=yes
+      f15:b=yes
+      f16:b=yes
+      f17:b=yes
+      f18:b=yes
+      f19:b=yes
+      f20:b=yes
+      f21:b=yes
+      f22:b=yes
+      f23:b=yes
+    }
+  }
+
+  selectedAir{
+    current_model:t="blenheim_mkiv"
+    britain:t="blenheim_mkiv"
+    japan:t="jp_destroyer_momi"
+    usa:t="us_destroyer_clemson_litchfield"
+    germany:t="germ_destroyer_class1924_leopard1932"
+    ussr:t="ussr_destroyer_frunze"
+    china:t="gladiator_mk1_china"
+    italy:t="it_destroyer_turbine"
+  }
+
+  customDifficultyBlk{
+    setDifficulty:i=3
+    baseDifficulty:i=1
+    baseDifficultyPreset:i=3
+    engineControl:i=1
+    realGunnery:i=1
+    realDamageModels:b=yes
+    stallsAndSpins:b=yes
+    redOuts:b=yes
+    mortalPilots:b=yes
+    manualTrimming:b=no
+    torqueAndGyro:b=no
+    flutter:b=yes
+    limitedBombsMissiles:b=yes
+    sensor:i=1
+    seeker:i=1
+    radarAssist:b=yes
+    radar:i=0
+    rwr:i=1
+    noArcadeBoost:i=1
+    limitViews:i=0
+    hudAimPrediction:b=no
+    hudMarkers:i=2
+    hudMarkerArrows:b=yes
+    hudAircraftMarkersMaxDist:i=3
+    hudIndicators:b=yes
+    hudShowTankDistance:b=no
+    hudTankRangefinder:i=1
+    hudMapAircraftMarkers:i=2
+    hudMapGroundMarkers:i=2
+    hudMarkersBlink:b=yes
+    hudShowAttentionMarkForAircraft:b=no
+    hudRadar:b=yes
+    hudDamageModel:i=1
+    hudDamageIndicator:b=yes
+    hudLargeAwardMessages:b=yes
+    hudWarnings:b=yes
+    noRespawns:b=no
+    respDifficulty:i=1
+    aircraftHelpers:b=no
+    collectiveDetection:b=yes
+    distDetection:i=1
+    allowControlHelpers:i=0
+    forceInstructor:b=no
+    playerTurretDeviation:i=1
+    hudOutline:b=no
+    ctaCaptureMul:i=1
+    damageModel:i=1
+    hudSpawnShotMarkers:b=no
+    hudShowEnemyDamageLog:b=yes
+    bombAssaultFuseTimeOverride:b=no
+    noviceDM:b=no
+    crewHealingOnlyOnCaptureZone:b=yes
+    showBombSight:b=no
+    showRadarGunSight:b=no
+    visibleNotTraceableIndicators:b=yes
+    checkTreesForIndicators:b=no
+    drawShipBulletFallIndicator:b=no
+    showShipBulletTimer:b=yes
+    ignoreReplenishment:b=no
+    aircraftFriendlyFireForBanOnly:b=no
+    enableLeaveKills:b=yes
+    airToAirMissileDetection:b=no
+    missileEvasionMessage:b=yes
+    rocketSpotting:b=yes
+    nightVisionInTPS:b=yes
+    hudDetectAlly:b=no
+    keepDeadTankOnMap:b=yes
+    keepDeadShipOnMap:b=yes
+    hudSendSquare:b=yes
+    shipSupportPlanes:b=no
+    lightDM:b=no
+    checkActivityByPlayerDamage:b=no
+    shipGunsRearm:b=no
+    opticalAgmArcadeControl:b=no
+  }
+}

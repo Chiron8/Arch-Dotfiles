@@ -1,0 +1,24 @@
+{
+	"windowstate": {
+		"isFullScreen": false,
+		"isMaximized": false,
+		"width": 949,
+		"height": 1028,
+		"x": 6,
+		"y": 46,
+		"frame": true,
+		"screenLayout": "0:0:1920:1080"
+	},
+	"workspaces": [
+		{
+			"x": 6,
+			"y": 46,
+			"width": 949,
+			"height": 1028,
+			"isMaximized": false,
+			"isFullScreen": false,
+			"file": "/home/chiron/Arduino/sketch_jan30a",
+			"time": 1738321139038
+		}
+	]
+}

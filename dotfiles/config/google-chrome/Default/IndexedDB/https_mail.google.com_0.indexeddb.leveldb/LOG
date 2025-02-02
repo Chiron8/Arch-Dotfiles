@@ -1,0 +1,6 @@
+2025/02/02-10:51:13.407 4137 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/02-10:51:13.407 4137 Recovering log #4
+2025/02/02-10:51:13.410 4137 Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2025/02/02-10:51:27.300 4138 Level-0 table #8: started
+2025/02/02-10:51:27.325 4138 Level-0 table #8: 3056619 bytes OK
+2025/02/02-10:51:27.332 4138 Delete type=0 #4
