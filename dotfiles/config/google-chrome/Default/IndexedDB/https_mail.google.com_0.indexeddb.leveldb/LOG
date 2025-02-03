@@ -1,12 +1,21 @@
-2025/02/02-16:08:32.526 945 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/02-16:08:32.527 945 Recovering log #15
-2025/02/02-16:08:32.531 945 Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000015.log 
-2025/02/02-16:08:33.956 90d Compacting 1@1 + 1@2 files
-2025/02/02-16:08:33.980 90d Generated table #18@1: 192 keys, 595295 bytes
-2025/02/02-16:08:33.980 90d Compacted 1@1 + 1@2 files => 595295 bytes
-2025/02/02-16:08:33.986 90d compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/02/02-16:08:33.987 90d Delete type=2 #13
-2025/02/02-16:08:33.987 90d Delete type=2 #16
-2025/02/02-16:08:35.534 90e Level-0 table #20: started
-2025/02/02-16:08:35.559 90e Level-0 table #20: 3062990 bytes OK
-2025/02/02-16:08:35.566 90e Delete type=0 #15
+2025/02/02-21:02:30.329 1b6d4 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/02-21:02:30.329 1b6d4 Recovering log #23
+2025/02/02-21:02:30.336 1b6d4 Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000023.log 
+2025/02/02-21:02:36.507 1b6bf Compacting 1@1 + 1@2 files
+2025/02/02-21:02:36.583 1b6bf Generated table #26@1: 262 keys, 995693 bytes
+2025/02/02-21:02:36.583 1b6bf Compacted 1@1 + 1@2 files => 995693 bytes
+2025/02/02-21:02:36.590 1b6bf compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/02-21:02:36.591 1b6bf Delete type=2 #22
+2025/02/02-21:02:36.591 1b6bf Delete type=2 #24
+2025/02/02-21:02:37.802 1b6be Level-0 table #28: started
+2025/02/02-21:02:37.847 1b6be Level-0 table #28: 3060920 bytes OK
+2025/02/02-21:02:37.856 1b6be Delete type=0 #23
+2025/02/02-21:02:41.499 1b6bd Compacting 1@1 + 1@2 files
+2025/02/02-21:02:41.524 1b6bd Generated table #29@1: 150 keys, 439252 bytes
+2025/02/02-21:02:41.524 1b6bd Compacted 1@1 + 1@2 files => 439252 bytes
+2025/02/02-21:02:41.531 1b6bd compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/02-21:02:41.531 1b6bd Delete type=2 #26
+2025/02/02-21:02:41.532 1b6bd Delete type=2 #28
+2025/02/02-21:02:49.419 1b6bd Level-0 table #31: started
+2025/02/02-21:02:49.442 1b6bd Level-0 table #31: 3117719 bytes OK
+2025/02/02-21:02:49.449 1b6bd Delete type=0 #27

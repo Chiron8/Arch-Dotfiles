@@ -1,3 +1,6 @@
-2025/02/02-13:22:36.697 947 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/02-13:22:36.697 947 Recovering log #98
-2025/02/02-13:22:36.700 947 Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000098.log 
+2025/02/02-19:34:39.148 c56 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/02-19:34:39.148 c56 Recovering log #98
+2025/02/02-19:34:39.152 c56 Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000098.log 
+2025/02/02-19:36:19.331 c54 Level-0 table #103: started
+2025/02/02-19:36:19.358 c54 Level-0 table #103: 1522472 bytes OK
+2025/02/02-19:36:19.369 c54 Delete type=0 #98

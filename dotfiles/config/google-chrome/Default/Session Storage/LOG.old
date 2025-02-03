@@ -1,18 +1,18 @@
-2025/02/02-14:09:50.310 4 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2025/02/02-14:09:50.311 4 Recovering log #82
-2025/02/02-14:09:50.311 4 Reusing old log /home/chiron/.config/google-chrome/Default/Session Storage/000082.log 
-2025/02/02-14:14:59.975 5 Level-0 table #86: started
-2025/02/02-14:14:59.979 5 Level-0 table #86: 11874 bytes OK
-2025/02/02-14:14:59.985 5 Delete type=0 #82
-2025/02/02-14:14:59.985 5 Compacting 4@0 + 1@1 files
-2025/02/02-14:14:59.993 5 Generated table #87@0: 3237 keys, 76142 bytes
-2025/02/02-14:14:59.993 5 Compacted 4@0 + 1@1 files => 76142 bytes
-2025/02/02-14:14:59.997 5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/02/02-14:14:59.998 5 Delete type=2 #75
-2025/02/02-14:14:59.998 5 Delete type=2 #78
-2025/02/02-14:14:59.998 5 Delete type=2 #81
-2025/02/02-14:14:59.998 5 Delete type=2 #83
-2025/02/02-14:14:59.998 5 Delete type=2 #86
-2025/02/02-14:33:48.714 5 Level-0 table #89: started
-2025/02/02-14:33:48.723 5 Level-0 table #89: 16535 bytes OK
-2025/02/02-14:33:48.733 5 Delete type=0 #85
+2025/02/02-18:22:41.768 4 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2025/02/02-18:22:41.769 4 Recovering log #92
+2025/02/02-18:22:41.770 4 Reusing old log /home/chiron/.config/google-chrome/Default/Session Storage/000092.log 
+2025/02/02-19:35:37.209 5 Level-0 table #95: started
+2025/02/02-19:35:37.221 5 Level-0 table #95: 20543 bytes OK
+2025/02/02-19:35:37.228 5 Delete type=0 #92
+2025/02/02-20:16:30.523 5 Level-0 table #97: started
+2025/02/02-20:16:30.532 5 Level-0 table #97: 73991 bytes OK
+2025/02/02-20:16:30.539 5 Delete type=0 #94
+2025/02/02-20:16:30.539 5 Compacting 4@0 + 1@1 files
+2025/02/02-20:16:30.547 5 Generated table #98@0: 3570 keys, 150179 bytes
+2025/02/02-20:16:30.547 5 Compacted 4@0 + 1@1 files => 150179 bytes
+2025/02/02-20:16:30.553 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/02-20:16:30.554 5 Delete type=2 #87
+2025/02/02-20:16:30.554 5 Delete type=2 #89
+2025/02/02-20:16:30.554 5 Delete type=2 #91
+2025/02/02-20:16:30.554 5 Delete type=2 #95
+2025/02/02-20:16:30.554 5 Delete type=2 #97
