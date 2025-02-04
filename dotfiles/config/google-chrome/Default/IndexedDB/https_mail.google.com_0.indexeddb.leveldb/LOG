@@ -1,21 +1,15 @@
-2025/02/02-21:02:30.329 1b6d4 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/02-21:02:30.329 1b6d4 Recovering log #23
-2025/02/02-21:02:30.336 1b6d4 Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000023.log 
-2025/02/02-21:02:36.507 1b6bf Compacting 1@1 + 1@2 files
-2025/02/02-21:02:36.583 1b6bf Generated table #26@1: 262 keys, 995693 bytes
-2025/02/02-21:02:36.583 1b6bf Compacted 1@1 + 1@2 files => 995693 bytes
-2025/02/02-21:02:36.590 1b6bf compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/02/02-21:02:36.591 1b6bf Delete type=2 #22
-2025/02/02-21:02:36.591 1b6bf Delete type=2 #24
-2025/02/02-21:02:37.802 1b6be Level-0 table #28: started
-2025/02/02-21:02:37.847 1b6be Level-0 table #28: 3060920 bytes OK
-2025/02/02-21:02:37.856 1b6be Delete type=0 #23
-2025/02/02-21:02:41.499 1b6bd Compacting 1@1 + 1@2 files
-2025/02/02-21:02:41.524 1b6bd Generated table #29@1: 150 keys, 439252 bytes
-2025/02/02-21:02:41.524 1b6bd Compacted 1@1 + 1@2 files => 439252 bytes
-2025/02/02-21:02:41.531 1b6bd compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/02/02-21:02:41.531 1b6bd Delete type=2 #26
-2025/02/02-21:02:41.532 1b6bd Delete type=2 #28
-2025/02/02-21:02:49.419 1b6bd Level-0 table #31: started
-2025/02/02-21:02:49.442 1b6bd Level-0 table #31: 3117719 bytes OK
-2025/02/02-21:02:49.449 1b6bd Delete type=0 #27
+2025/02/03-19:54:42.487 945 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/03-19:54:42.488 945 Recovering log #34
+2025/02/03-19:54:42.503 945 Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000034.log 
+2025/02/03-19:54:45.227 944 Level-0 table #39: started
+2025/02/03-19:54:45.274 944 Level-0 table #39: 2983783 bytes OK
+2025/02/03-19:54:45.282 944 Delete type=0 #34
+2025/02/03-19:54:53.766 943 Compacting 1@1 + 1@2 files
+2025/02/03-19:54:53.789 943 Generated table #40@1: 156 keys, 470550 bytes
+2025/02/03-19:54:53.789 943 Compacted 1@1 + 1@2 files => 470550 bytes
+2025/02/03-19:54:53.796 943 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/03-19:54:53.796 943 Delete type=2 #36
+2025/02/03-19:54:53.796 943 Delete type=2 #39
+2025/02/03-19:54:58.518 944 Level-0 table #42: started
+2025/02/03-19:54:58.551 944 Level-0 table #42: 3056577 bytes OK
+2025/02/03-19:54:58.560 944 Delete type=0 #38

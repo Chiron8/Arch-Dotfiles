@@ -1,12 +1,18 @@
-2025/02/02-18:56:39.791 c56 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/02-18:56:39.792 c56 Recovering log #19
-2025/02/02-18:56:39.796 c56 Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000019.log 
-2025/02/02-18:56:41.341 c54 Compacting 1@1 + 1@2 files
-2025/02/02-18:56:41.354 c54 Generated table #22@1: 178 keys, 609795 bytes
-2025/02/02-18:56:41.354 c54 Compacted 1@1 + 1@2 files => 609795 bytes
-2025/02/02-18:56:41.360 c54 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/02/02-18:56:41.360 c54 Delete type=2 #18
-2025/02/02-18:56:41.361 c54 Delete type=2 #20
-2025/02/02-18:56:53.002 c55 Level-0 table #24: started
-2025/02/02-18:56:53.025 c55 Level-0 table #24: 3044152 bytes OK
-2025/02/02-18:56:53.035 c55 Delete type=0 #19
+2025/02/03-17:52:57.184 943 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/03-17:52:57.184 943 Recovering log #30
+2025/02/03-17:52:57.187 943 Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000030.log 
+2025/02/03-17:52:58.639 945 Compacting 1@1 + 1@2 files
+2025/02/03-17:52:58.651 945 Generated table #33@1: 295 keys, 1056125 bytes
+2025/02/03-17:52:58.651 945 Compacted 1@1 + 1@2 files => 1056125 bytes
+2025/02/03-17:52:58.657 945 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/03-17:53:09.579 943 Level-0 table #35: started
+2025/02/03-17:53:09.607 943 Level-0 table #35: 3138841 bytes OK
+2025/02/03-17:53:09.614 943 Delete type=2 #29
+2025/02/03-17:53:09.614 943 Delete type=0 #30
+2025/02/03-17:53:09.614 943 Delete type=2 #31
+2025/02/03-17:53:10.672 943 Compacting 1@1 + 1@2 files
+2025/02/03-17:53:10.686 943 Generated table #36@1: 225 keys, 806289 bytes
+2025/02/03-17:53:10.686 943 Compacted 1@1 + 1@2 files => 806289 bytes
+2025/02/03-17:53:10.692 943 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/03-17:53:10.693 943 Delete type=2 #33
+2025/02/03-17:53:10.693 943 Delete type=2 #35
