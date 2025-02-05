@@ -1,0 +1,11 @@
+[Unit]
+Description=SSH Agent
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/ssh-agent -D
+Restart=always
+
+[Install]
+WantedBy=default.target

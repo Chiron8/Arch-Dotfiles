@@ -1,7 +1,0 @@
-2025/02/01-12:04:27.966 8c8a Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_quizlet.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/01-12:04:27.967 8c8a Recovering log #3
-2025/02/01-12:04:27.968 8c8a Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_quizlet.com_0.indexeddb.leveldb/000003.log 
-2025/02/01-12:17:51.337 8c8b Level-0 table #5: started
-2025/02/01-12:17:51.340 8c8b Level-0 table #5: 8133 bytes OK
-2025/02/01-12:17:51.346 8c8b Delete type=0 #3
-2025/02/01-12:17:51.347 8c8b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

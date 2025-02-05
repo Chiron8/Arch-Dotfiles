@@ -1,7 +1,0 @@
-2025/02/02-19:26:12.034 c56 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/02-19:26:12.034 c56 Recovering log #3
-2025/02/02-19:26:12.035 c56 Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000003.log 
-2025/02/02-19:26:44.050 c55 Level-0 table #5: started
-2025/02/02-19:26:44.053 c55 Level-0 table #5: 4620 bytes OK
-2025/02/02-19:26:44.059 c55 Delete type=0 #3
-2025/02/02-19:26:44.059 c55 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
