@@ -1,3 +1,7 @@
-2025/02/02-15:15:59.024 90d Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_teams.live.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/02-15:15:59.024 90d Recovering log #3
-2025/02/02-15:15:59.045 90d Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_teams.live.com_0.indexeddb.leveldb/000003.log 
+2025/02/03-18:37:18.363 95c Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_teams.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/03-18:37:18.364 95c Recovering log #3
+2025/02/03-18:37:18.401 95c Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_teams.live.com_0.indexeddb.leveldb/000003.log 
+2025/02/03-19:56:05.652 944 Level-0 table #5: started
+2025/02/03-19:56:05.669 944 Level-0 table #5: 929918 bytes OK
+2025/02/03-19:56:05.676 944 Delete type=0 #3
+2025/02/03-19:56:05.676 944 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

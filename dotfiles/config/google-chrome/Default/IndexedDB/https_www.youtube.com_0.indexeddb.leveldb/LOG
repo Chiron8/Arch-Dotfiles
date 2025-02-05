@@ -1,3 +1,12 @@
-2025/02/03-18:31:50.232 944 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/03-18:31:50.233 944 Recovering log #111
-2025/02/03-18:31:50.235 944 Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000111.log 
+2025/02/05-18:03:05.252 bfc Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/05-18:03:05.252 bfc Recovering log #115
+2025/02/05-18:03:05.256 bfc Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000115.log 
+2025/02/05-18:06:34.578 be6 Level-0 table #120: started
+2025/02/05-18:06:34.599 be6 Level-0 table #120: 1451158 bytes OK
+2025/02/05-18:06:34.606 be6 Delete type=0 #115
+2025/02/05-18:10:00.318 be6 Compacting 1@1 + 1@2 files
+2025/02/05-18:10:00.336 be6 Generated table #121@1: 358 keys, 46900 bytes
+2025/02/05-18:10:00.336 be6 Compacted 1@1 + 1@2 files => 46900 bytes
+2025/02/05-18:10:00.342 be6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/05-18:10:00.342 be6 Delete type=2 #117
+2025/02/05-18:10:00.342 be6 Delete type=2 #120
