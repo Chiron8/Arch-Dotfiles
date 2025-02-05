@@ -18,13 +18,10 @@ if status is-interactive
     # Aliases
     alias pamcan=pacman
 
-    # Use the systemd-managed ssh-agent
-    set -x SSH_AUTH_SOCK (systemctl --user show-environment | grep SSH_AUTH_SOCK | cut -d= -f2)
-
-    # Add SSH key if not already added
-    ssh-add -l > /dev/null 2>&1; or ssh-add ~/.ssh/id_ed25519
-
-    # Run Fastfetch for system info
+    eval (ssh-agent -c)
+    ssh-add ~/.ssh/id_ed25519
+   
     fastfetch
+
 end
 

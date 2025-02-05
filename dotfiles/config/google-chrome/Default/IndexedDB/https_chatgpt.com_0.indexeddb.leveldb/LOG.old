@@ -1,2 +1,3 @@
-2025/02/05-19:52:06.560 be7f Creating DB /home/chiron/.config/google-chrome/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb since it was missing.
-2025/02/05-19:52:06.576 be7f Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/05-20:11:33.795 9bf Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/05-20:11:33.795 9bf Recovering log #3
+2025/02/05-20:11:33.796 9bf Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/000003.log 
