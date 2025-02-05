@@ -1,5 +1,6 @@
 # Arch-Dotfiles
-![Static Badge](https://img.shields.io/badge/Working_-Yes!?style=for-the-badge&logo=archlinux)
+![Static Badge](https://img.shields.io/badge/Working_-Yes!?style=for-the-badge&logo=archlinux) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Chiron8/Arch-Dotfiles?style=for-the-badge)
+
 
 
 My dotfiles updated every time I turn my laptop on!
