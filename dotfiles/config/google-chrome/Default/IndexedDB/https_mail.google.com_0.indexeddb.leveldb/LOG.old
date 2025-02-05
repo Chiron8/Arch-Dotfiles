@@ -1,18 +1,15 @@
-2025/02/03-17:52:57.184 943 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/03-17:52:57.184 943 Recovering log #30
-2025/02/03-17:52:57.187 943 Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000030.log 
-2025/02/03-17:52:58.639 945 Compacting 1@1 + 1@2 files
-2025/02/03-17:52:58.651 945 Generated table #33@1: 295 keys, 1056125 bytes
-2025/02/03-17:52:58.651 945 Compacted 1@1 + 1@2 files => 1056125 bytes
-2025/02/03-17:52:58.657 945 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/02/03-17:53:09.579 943 Level-0 table #35: started
-2025/02/03-17:53:09.607 943 Level-0 table #35: 3138841 bytes OK
-2025/02/03-17:53:09.614 943 Delete type=2 #29
-2025/02/03-17:53:09.614 943 Delete type=0 #30
-2025/02/03-17:53:09.614 943 Delete type=2 #31
-2025/02/03-17:53:10.672 943 Compacting 1@1 + 1@2 files
-2025/02/03-17:53:10.686 943 Generated table #36@1: 225 keys, 806289 bytes
-2025/02/03-17:53:10.686 943 Compacted 1@1 + 1@2 files => 806289 bytes
-2025/02/03-17:53:10.692 943 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/02/03-17:53:10.693 943 Delete type=2 #33
-2025/02/03-17:53:10.693 943 Delete type=2 #35
+2025/02/03-19:54:42.487 945 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/03-19:54:42.488 945 Recovering log #34
+2025/02/03-19:54:42.503 945 Reusing old log /home/chiron/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000034.log 
+2025/02/03-19:54:45.227 944 Level-0 table #39: started
+2025/02/03-19:54:45.274 944 Level-0 table #39: 2983783 bytes OK
+2025/02/03-19:54:45.282 944 Delete type=0 #34
+2025/02/03-19:54:53.766 943 Compacting 1@1 + 1@2 files
+2025/02/03-19:54:53.789 943 Generated table #40@1: 156 keys, 470550 bytes
+2025/02/03-19:54:53.789 943 Compacted 1@1 + 1@2 files => 470550 bytes
+2025/02/03-19:54:53.796 943 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/03-19:54:53.796 943 Delete type=2 #36
+2025/02/03-19:54:53.796 943 Delete type=2 #39
+2025/02/03-19:54:58.518 944 Level-0 table #42: started
+2025/02/03-19:54:58.551 944 Level-0 table #42: 3056577 bytes OK
+2025/02/03-19:54:58.560 944 Delete type=0 #38

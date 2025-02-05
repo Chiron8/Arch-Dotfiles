@@ -1,3 +1,6 @@
-2025/02/02-21:02:30.280 4 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2025/02/02-21:02:30.281 4 Recovering log #96
-2025/02/02-21:02:30.282 4 Reusing old log /home/chiron/.config/google-chrome/Default/Session Storage/000096.log 
+2025/02/03-17:52:49.116 4 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2025/02/03-17:52:49.117 4 Recovering log #96
+2025/02/03-17:52:49.117 4 Reusing old log /home/chiron/.config/google-chrome/Default/Session Storage/000096.log 
+2025/02/03-17:59:56.755 7 Level-0 table #101: started
+2025/02/03-17:59:56.759 7 Level-0 table #101: 17895 bytes OK
+2025/02/03-17:59:56.769 7 Delete type=0 #96
