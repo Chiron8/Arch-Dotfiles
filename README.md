@@ -1,5 +1,5 @@
 # Arch-Dotfiles
-![Static Badge](https://img.shields.io/badge/Backend Working?-Yes!-blue?style=for-the-badge) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Chiron8/Arch-Dotfiles?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Backend-Working-blue?style=for-the-badge) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Chiron8/Arch-Dotfiles?style=for-the-badge)
 
 
 
