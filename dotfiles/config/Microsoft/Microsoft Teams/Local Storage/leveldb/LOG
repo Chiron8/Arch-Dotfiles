@@ -1,9 +1,0 @@
-2025/02/02-15:05:33.400 9d86 Reusing MANIFEST /home/chiron/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
-2025/02/02-15:05:33.400 9d86 Recovering log #3
-2025/02/02-15:05:33.400 9d86 Reusing old log /home/chiron/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000003.log 
-2025/02/02-15:05:55.529 9f0d Level-0 table #5: started
-2025/02/02-15:05:55.545 9f0d Level-0 table #5: 505452 bytes OK
-2025/02/02-15:05:55.551 9f0d Delete type=0 #3
-2025/02/02-15:07:07.441 9f0d Level-0 table #7: started
-2025/02/02-15:07:07.447 9f0d Level-0 table #7: 328040 bytes OK
-2025/02/02-15:07:07.453 9f0d Delete type=0 #4
