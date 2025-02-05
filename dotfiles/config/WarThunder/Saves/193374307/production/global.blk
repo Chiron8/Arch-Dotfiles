@@ -1,4 +1,4 @@
-version:i=70
+version:i=74
 
 content{
   profile{
@@ -12,7 +12,7 @@ content{
     saveVersion:i=2
     countryId2:i=4
     firstFreeFlight:b=yes
-    completedOneMission:i=0
+    completedOneMission:i=1
     seenNuclearEvent:b=no
     seenBackgroundNuclearEvent:b=no
     battleCntWithSupportPlane:i=0
@@ -167,7 +167,7 @@ content{
 
       accounts{
         193374307.production{
-          selected_random_battle:t="air_arcade"
+          selected_random_battle:t="air_realistic"
           SteamEmailRegistrationShowed:b=yes
           "statistic:new_player_tutorial_choice":b=yes
           firstRunTutorial_tutorial_destroyer_basics_arcade:b=yes
@@ -227,14 +227,6 @@ content{
               selected:i=2
             }
 
-            country_britain{
-              preset:t="6|6,7|blenheim_mkiv,v_156_b1|Default ▭|air_arcade|6,7,20"
-              preset:t="7|6,7|uk_a_13_mk1,uk_a17_mk_1_tetrarch|Default ▮|tank_new_players_battle_coop|6,7,20"
-              preset:t="20|6,20|uk_destroyer_v_class_vega,uk_destroyer_v_class_verdun|Default ┚|ship_new_players_battle_coop|6,7,20"
-              preset:t="6|6|uk_mtb_1series|Default ⋛|ship_new_players_battle_coop|6,7,20"
-              selected:i=0
-            }
-
             country_china{
               preset:t="14|14|gladiator_mk1_china|Preset #1|air_arcade|14,15"
               selected:i=0
@@ -246,6 +238,14 @@ content{
               preset:t="10|10|it_destroyer_turbine|Default ┚|ship_new_players_battle_coop|10,11"
               preset:t="10|10|it_mas_classe500_3_1944|Default ⋛|ship_event_in_random_battles_arcade|10"
               selected:i=2
+            }
+
+            country_britain{
+              preset:t="6|6,7|blenheim_mkiv,v_156_b1|Default ▭|air_realistic|6,7,20"
+              preset:t="7|6,7|uk_a_13_mk1,uk_a17_mk_1_tetrarch|Default ▮|tank_new_players_battle_coop|6,7,20"
+              preset:t="20|6,20|uk_destroyer_v_class_vega,uk_destroyer_v_class_verdun|Default ┚|ship_new_players_battle_coop|6,7,20"
+              preset:t="6|6|uk_mtb_1series|Default ⋛|ship_new_players_battle_coop|6,7,20"
+              selected:i=0
             }
           }
 
@@ -304,7 +304,7 @@ content{
             country_usa:i=0
             country_germany:i=0
             country_ussr:i=0
-            country_britain:i=0
+            country_britain:i=1
             country_japan:i=0
             country_china:i=0
             country_italy:i=0
@@ -363,8 +363,8 @@ content{
       }
 
       changelog{
-        lastSeenVersionInfoNum:i=36372560
-        lastLoadedVersionNum:i=36372560
+        lastSeenVersionInfoNum:i=36372567
+        lastLoadedVersionNum:i=36372567
       }
 
       gpuBenchmark{
@@ -389,14 +389,14 @@ content{
           seenTime:i=1738407664
         }
 
-        11{
-          seenCount:i=1
-          seenTime:i=1738407967
-        }
-
         12{
           seenCount:i=4
           seenTime:i=1738408142
+        }
+
+        11{
+          seenCount:i=2
+          seenTime:i=1738781364
         }
       }
 
@@ -411,7 +411,7 @@ content{
 
       viralAcquisition{
         resetDays:i=1
-        lastLoginDay:i=739648
+        lastLoginDay:i=739652
         lastShowTime:i=739647
       }
 
@@ -815,8 +815,8 @@ content{
   }
 
   selectedAir{
-    current_model:t="blenheim_mkiv"
-    britain:t="blenheim_mkiv"
+    current_model:t="v_156_b1"
+    britain:t="v_156_b1"
     japan:t="jp_destroyer_momi"
     usa:t="us_destroyer_clemson_litchfield"
     germany:t="germ_destroyer_class1924_leopard1932"

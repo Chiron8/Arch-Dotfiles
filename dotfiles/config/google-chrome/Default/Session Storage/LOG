@@ -1,6 +1,15 @@
-2025/02/05-17:16:46.329 4 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2025/02/05-17:16:46.330 4 Recovering log #104
-2025/02/05-17:16:46.330 4 Reusing old log /home/chiron/.config/google-chrome/Default/Session Storage/000104.log 
-2025/02/05-18:03:03.546 5 Level-0 table #107: started
-2025/02/05-18:03:03.557 5 Level-0 table #107: 25218 bytes OK
-2025/02/05-18:03:03.564 5 Delete type=0 #104
+2025/02/05-18:54:06.125 4 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2025/02/05-18:54:06.125 4 Recovering log #106
+2025/02/05-18:54:06.126 4 Reusing old log /home/chiron/.config/google-chrome/Default/Session Storage/000106.log 
+2025/02/05-19:27:31.011 5 Level-0 table #110: started
+2025/02/05-19:27:31.022 5 Level-0 table #110: 23663 bytes OK
+2025/02/05-19:27:31.029 5 Delete type=0 #106
+2025/02/05-19:27:31.029 5 Compacting 4@0 + 1@1 files
+2025/02/05-19:27:31.037 5 Generated table #111@0: 4199 keys, 96276 bytes
+2025/02/05-19:27:31.037 5 Compacted 4@0 + 1@1 files => 96276 bytes
+2025/02/05-19:27:31.043 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/05-19:27:31.044 5 Delete type=2 #98
+2025/02/05-19:27:31.044 5 Delete type=2 #101
+2025/02/05-19:27:31.044 5 Delete type=2 #103
+2025/02/05-19:27:31.044 5 Delete type=2 #107
+2025/02/05-19:27:31.044 5 Delete type=2 #110

@@ -1,23 +1,26 @@
-2025/02/05-17:16:43.965 4 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2025/02/05-17:16:43.971 4 Recovering log #2456
-2025/02/05-17:16:43.972 4 Level-0 table #2459: started
-2025/02/05-17:16:43.978 4 Level-0 table #2459: 403566 bytes OK
-2025/02/05-17:16:43.986 4 Delete type=0 #2456
-2025/02/05-17:16:43.986 5 Compacting 4@0 + 1@1 files
-2025/02/05-17:16:44.005 5 Generated table #2461@0: 1306 keys, 2108414 bytes
-2025/02/05-17:16:44.005 5 Compacted 4@0 + 1@1 files => 2108414 bytes
-2025/02/05-17:16:44.011 5 compacted to: files[ 0 2 1 0 0 0 0 ]
-2025/02/05-17:16:44.012 5 Delete type=2 #2450
-2025/02/05-17:16:44.012 5 Delete type=2 #2453
-2025/02/05-17:16:44.012 5 Delete type=2 #2455
-2025/02/05-17:16:44.012 5 Delete type=2 #2457
-2025/02/05-17:16:44.012 5 Delete type=2 #2459
-2025/02/05-17:17:46.652 5 Level-0 table #2463: started
-2025/02/05-17:17:46.664 5 Level-0 table #2463: 30766 bytes OK
-2025/02/05-17:17:46.670 5 Delete type=0 #2460
-2025/02/05-17:54:30.826 5 Level-0 table #2465: started
-2025/02/05-17:54:30.831 5 Level-0 table #2465: 44124 bytes OK
-2025/02/05-17:54:30.838 5 Delete type=0 #2462
-2025/02/05-17:59:51.016 5 Level-0 table #2467: started
-2025/02/05-17:59:51.027 5 Level-0 table #2467: 84542 bytes OK
-2025/02/05-17:59:51.035 5 Delete type=0 #2464
+2025/02/05-18:54:06.078 4 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2025/02/05-18:54:06.082 4 Recovering log #2466
+2025/02/05-18:54:06.082 4 Reusing old log /home/chiron/.config/google-chrome/Default/Local Storage/leveldb/002466.log 
+2025/02/05-19:00:23.624 5 Level-0 table #2470: started
+2025/02/05-19:00:23.635 5 Level-0 table #2470: 24562 bytes OK
+2025/02/05-19:00:23.642 5 Delete type=0 #2466
+2025/02/05-19:00:23.642 5 Compacting 4@0 + 2@1 files
+2025/02/05-19:00:23.660 5 Generated table #2471@0: 1320 keys, 2111424 bytes
+2025/02/05-19:00:23.672 5 Generated table #2472@0: 876 keys, 586709 bytes
+2025/02/05-19:00:23.672 5 Compacted 4@0 + 2@1 files => 2698133 bytes
+2025/02/05-19:00:23.690 5 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/02/05-19:00:23.691 5 Delete type=2 #2451
+2025/02/05-19:00:23.691 5 Delete type=2 #2461
+2025/02/05-19:00:23.691 5 Delete type=2 #2463
+2025/02/05-19:00:23.691 5 Delete type=2 #2465
+2025/02/05-19:00:23.691 5 Delete type=2 #2467
+2025/02/05-19:00:23.691 5 Delete type=2 #2470
+2025/02/05-19:25:53.664 5 Level-0 table #2474: started
+2025/02/05-19:25:53.667 5 Level-0 table #2474: 13440 bytes OK
+2025/02/05-19:25:53.674 5 Delete type=0 #2469
+2025/02/05-19:25:57.479 5 Level-0 table #2476: started
+2025/02/05-19:25:57.490 5 Level-0 table #2476: 73415 bytes OK
+2025/02/05-19:25:57.498 5 Delete type=0 #2473
+2025/02/05-19:36:35.598 4 Level-0 table #2478: started
+2025/02/05-19:36:35.609 4 Level-0 table #2478: 20032 bytes OK
+2025/02/05-19:36:35.617 4 Delete type=0 #2475

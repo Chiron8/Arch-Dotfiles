@@ -1,3 +1,9 @@
-2025/02/05-17:16:44.042 bf9 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/shared_proto_db/MANIFEST-000001
-2025/02/05-17:16:44.042 bf9 Recovering log #4
-2025/02/05-17:16:44.043 bf9 Reusing old log /home/chiron/.config/google-chrome/Default/shared_proto_db/000004.log 
+2025/02/05-18:54:06.137 3227 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/shared_proto_db/MANIFEST-000001
+2025/02/05-18:54:06.137 3227 Recovering log #7
+2025/02/05-18:54:06.137 3227 Reusing old log /home/chiron/.config/google-chrome/Default/shared_proto_db/000007.log 
+2025/02/05-19:12:16.303 3228 Compacting 1@1 + 1@2 files
+2025/02/05-19:12:16.314 3228 Generated table #10@1: 270 keys, 22417 bytes
+2025/02/05-19:12:16.315 3228 Compacted 1@1 + 1@2 files => 22417 bytes
+2025/02/05-19:12:16.320 3228 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/05-19:12:16.321 3228 Delete type=2 #5
+2025/02/05-19:12:16.321 3228 Delete type=2 #8

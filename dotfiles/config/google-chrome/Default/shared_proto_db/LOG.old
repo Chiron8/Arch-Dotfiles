@@ -1,3 +1,6 @@
-2025/02/04-07:20:24.487 c04 Reusing MANIFEST /home/chiron/.config/google-chrome/Default/shared_proto_db/MANIFEST-000001
-2025/02/04-07:20:24.487 c04 Recovering log #4
-2025/02/04-07:20:24.488 c04 Reusing old log /home/chiron/.config/google-chrome/Default/shared_proto_db/000004.log 
+2025/02/05-18:52:24.298 2cbf Reusing MANIFEST /home/chiron/.config/google-chrome/Default/shared_proto_db/MANIFEST-000001
+2025/02/05-18:52:24.298 2cbf Recovering log #4
+2025/02/05-18:52:24.303 2cbf Reusing old log /home/chiron/.config/google-chrome/Default/shared_proto_db/000004.log 
+2025/02/05-18:52:24.341 2cc0 Level-0 table #8: started
+2025/02/05-18:52:24.349 2cc0 Level-0 table #8: 124494 bytes OK
+2025/02/05-18:52:24.362 2cc0 Delete type=0 #4

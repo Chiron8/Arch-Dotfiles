@@ -3,7 +3,7 @@ content{
   languageId:i=0
   speechLanguageId:i=0
   uniqueId:t="679CFF45035563DD"
-  runCount:i=10
+  runCount:i=11
   autologin:b=no
   agreedEulaVersion:i=12
   useSteamLoginAuto:b=yes
