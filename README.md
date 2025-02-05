@@ -1,5 +1,5 @@
 # Arch-Dotfiles
-![Static Badge](https://img.shields.io/badge/Working%3A%20-%20True)
+![Static Badge](https://img.shields.io/badge/Working_-Yes!?style=for-the-badge&logo=archlinux)
 
 
 My dotfiles updated every time I turn my laptop on!
